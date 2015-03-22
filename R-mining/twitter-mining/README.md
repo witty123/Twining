@@ -1,4 +1,1 @@
-Twitter Sentiment Analysis and more
-====================================
-
-Made using R and shiny
+Twitter Sentiment Analysis
